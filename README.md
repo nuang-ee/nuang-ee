@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-- 🔭 I’m currently working on [Bagelcode, Inc](https://site.bagelcode.com/)
+- 🔭 I’m currently working at [Bucketplace (Ohouse)](https://www.bucketplace.com/en)
 - 📫 How to reach me: <lkju79@gmail.com>
 
 <!--
