@@ -1,7 +1,14 @@
 # Hi there 👋
 
 
-- 🔭 I’m currently working at [Bucketplace (Ohouse)](https://www.bucketplace.com/en)
+- 🔭 I’m currently working at Data Platform Team, [Bucketplace (Ohouse)](https://www.bucketplace.com/en)
+- Currently learning & working on:
+  - Data Pipeline (Airflow, Spark)
+  - Data Governance
+  - Data Discovery
+  - Data Infra (AWS & K8s)
+  - CI/CD (Helm, ArgoCD, Github Actions)
+  - General In-house Data Development Tools (JupyterHub)
 - 📫 How to reach me: <lkju79@gmail.com>
 
 <!--
