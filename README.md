@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at Data Platform Team, [Bucketplace (Ohouse)](https://www.bucketplace.com/en)
 - Currently learning & working on:
-  - Data Pipeline (Airflow, Spark)
-  - Data Governance
-  - Data Discovery
-  - Data Infra (AWS & K8s)
-  - CI/CD (Helm, ArgoCD, Github Actions)
+  - Data Batch Pipeline (Airflow, Spark)
+  - Data Governance (Data Activity Auditing, PII handling, ...)
+  - Data Discovery (OpenMetadata)
+  - AWS (AWS EMR on EKS, EKS, S3, ...)
+  - CI/CD (Helm, ArgoCD, GitHub Actions)
   - General In-house Data Development Tools (JupyterHub)
 - 📫 How to reach me: <lkju79@gmail.com>
 
