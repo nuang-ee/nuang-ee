@@ -1,6 +1,6 @@
 # Seungjae Chung
 
-Mid-level software engineer, currently working at Data Platform Team, [Bucketplace (Ohouse)](https://www.bucketplace.com/en)
+Mid-level software engineer with 4+ years of experience, currently working at Data Platform Team, [Bucketplace (Ohouse)](https://www.bucketplace.com/en)
 
 - 📫 How to reach me:
   - personal e-mail <lkju79@gmail.com>
